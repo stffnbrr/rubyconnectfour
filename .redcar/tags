@@ -1,0 +1,14 @@
+1308211745
+AIPlayer	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	class AIPlayer
+DEPTH	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  DEPTH =
+FACTORMAX	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  FACTORMAX =
+FACTORMIN	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  FACTORMIN =
+INFINITY	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb		INFINITY =
+calc	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  def calc(arr,factors)
+eval	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  def eval(field)
+find_rows	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  def find_rows 
+maxab	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  def maxab(field,depth,alpha,beta)
+minab	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  def minab(field,depth,alpha,beta)
+move	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  def move 
+other	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  def other 
+player=	/home/niklas/Dropbox/HAW/HAW-Share/IS/NiklasSteffenAaron/Aufgabe4/code/AIPlayer.rb	  def player= 
